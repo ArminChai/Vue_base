@@ -1,4 +1,5 @@
 import { getSum } from './add/add.js'
+import { getArrSum } from './tool/tool.js'
 
-let sum = getSum(6, 6)
-console.log(sum)
+console.log(getSum(6, 8))
+console.log(getArrSum([6, 6, 5, 7, 9]))

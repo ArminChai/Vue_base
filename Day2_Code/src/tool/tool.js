@@ -1,0 +1,1 @@
+export let getArrSum = arr => arr.reduce((sum, val) => sum += val, 0)
