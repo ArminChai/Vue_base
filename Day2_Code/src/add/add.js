@@ -1,1 +1,0 @@
-export let getSum = (a, b) => a + b

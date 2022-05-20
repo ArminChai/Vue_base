@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log(14),console.log([6,6,5,7,9].reduce(((o,e)=>o+e),0))})();
