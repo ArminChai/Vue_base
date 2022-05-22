@@ -6,7 +6,7 @@ import './assets/fonts/iconfont.css'
 
 
 $('#listUl li:odd').css('color', 'orange')
-$('#listUl li:even').css('color', 'skyblue')
+$('#listUl li:even').css('color', 'blue')
 
 let itemImg = document.createElement('img')
 itemImg.src = picSrc
